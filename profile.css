@@ -1,0 +1,65 @@
+.container{
+margin-left: 40px;
+background-color: lightpink;
+color: brown;
+
+
+}
+.icon {
+
+    font-size: 2px;
+    border-width: 1px;
+    margin-right: 10px;
+
+}
+.header {
+    font-size: 20px;
+    color: brown;
+    text-align: center;
+    padding: 19px;
+
+}
+
+
+.words {
+font-family: Arial;
+font-size: 16px;
+text-align: center;
+color: blueviolet;
+font-weight: 20px;
+}
+#image {
+    width: 18px;
+    height: 18px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 110px;
+    
+}
+.button {
+
+    font-family: Verdana;
+    width: 100px;
+    height: 35px;
+    padding: 18px;
+    border-radius: 40px;
+    color: blue;
+    background-color: violet
+    ;margin-left: 110px;
+
+}
+.button::hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.New {
+
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    
+
+
+
